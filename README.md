@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 learning ...
+🌱 learning ...<img align="right" alt="GIF" src="https://github.com/hanshixucode/hanshixucode/blob/main/A.gif" />
 ---
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 <!--
