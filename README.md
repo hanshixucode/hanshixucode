@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🌱 learning ...
+---
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 <!--
 **hanshixucode/hanshixucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
